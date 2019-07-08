@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "506afcc7cfa766dba8f44ae790846e48",
+    "revision": "9b44dbe0165ed668cb555b86dd4a26fe",
     "url": "/isadoraramirez/THE-VENUE/index.html"
   },
   {
-    "revision": "e7a8c7faad8408abe564",
+    "revision": "b98d40b594b5cf59575d",
     "url": "/isadoraramirez/THE-VENUE/static/css/main.d6fa7445.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/isadoraramirez/THE-VENUE/static/js/2.525b8250.chunk.js"
   },
   {
-    "revision": "e7a8c7faad8408abe564",
-    "url": "/isadoraramirez/THE-VENUE/static/js/main.990bbee1.chunk.js"
+    "revision": "b98d40b594b5cf59575d",
+    "url": "/isadoraramirez/THE-VENUE/static/js/main.e4418d87.chunk.js"
   },
   {
     "revision": "44610bca5def7a8f3e0d",
