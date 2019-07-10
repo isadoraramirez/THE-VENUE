@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/isadoraramirez/THE-VENUE/static/css/main.d6fa7445.chunk.css",
-    "main.js": "/isadoraramirez/THE-VENUE/static/js/main.e4418d87.chunk.js",
-    "main.js.map": "/isadoraramirez/THE-VENUE/static/js/main.e4418d87.chunk.js.map",
-    "runtime~main.js": "/isadoraramirez/THE-VENUE/static/js/runtime~main.5abc403c.js",
-    "runtime~main.js.map": "/isadoraramirez/THE-VENUE/static/js/runtime~main.5abc403c.js.map",
-    "static/js/2.525b8250.chunk.js": "/isadoraramirez/THE-VENUE/static/js/2.525b8250.chunk.js",
-    "static/js/2.525b8250.chunk.js.map": "/isadoraramirez/THE-VENUE/static/js/2.525b8250.chunk.js.map",
-    "index.html": "/isadoraramirez/THE-VENUE/index.html",
-    "precache-manifest.180e0c6f6acdb2b5e17cf426590a5f72.js": "/isadoraramirez/THE-VENUE/precache-manifest.180e0c6f6acdb2b5e17cf426590a5f72.js",
-    "service-worker.js": "/isadoraramirez/THE-VENUE/service-worker.js",
-    "static/css/main.d6fa7445.chunk.css.map": "/isadoraramirez/THE-VENUE/static/css/main.d6fa7445.chunk.css.map",
-    "static/media/slide_one.jpg": "/isadoraramirez/THE-VENUE/static/media/slide_one.b5b4067e.jpg",
-    "static/media/slide_three.jpg": "/isadoraramirez/THE-VENUE/static/media/slide_three.2d33038b.jpg",
-    "static/media/slide_two.jpg": "/isadoraramirez/THE-VENUE/static/media/slide_two.ec20af15.jpg"
+    "main.css": "/THE-VENUE/static/css/main.d6fa7445.chunk.css",
+    "main.js": "/THE-VENUE/static/js/main.c207d0b6.chunk.js",
+    "main.js.map": "/THE-VENUE/static/js/main.c207d0b6.chunk.js.map",
+    "runtime~main.js": "/THE-VENUE/static/js/runtime~main.f953dfa9.js",
+    "runtime~main.js.map": "/THE-VENUE/static/js/runtime~main.f953dfa9.js.map",
+    "static/js/2.a6d7b2a3.chunk.js": "/THE-VENUE/static/js/2.a6d7b2a3.chunk.js",
+    "static/js/2.a6d7b2a3.chunk.js.map": "/THE-VENUE/static/js/2.a6d7b2a3.chunk.js.map",
+    "index.html": "/THE-VENUE/index.html",
+    "precache-manifest.ac01601ba78fb161e965786197588e31.js": "/THE-VENUE/precache-manifest.ac01601ba78fb161e965786197588e31.js",
+    "service-worker.js": "/THE-VENUE/service-worker.js",
+    "static/css/main.d6fa7445.chunk.css.map": "/THE-VENUE/static/css/main.d6fa7445.chunk.css.map",
+    "static/media/slide_one.jpg": "/THE-VENUE/static/media/slide_one.b5b4067e.jpg",
+    "static/media/slide_three.jpg": "/THE-VENUE/static/media/slide_three.2d33038b.jpg",
+    "static/media/slide_two.jpg": "/THE-VENUE/static/media/slide_two.ec20af15.jpg"
   }
 }
